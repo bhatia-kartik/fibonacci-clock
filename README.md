@@ -1,2 +1,2 @@
-# fibonacci-clock
+# fibonacci clock
 inspired from basbrun.com
