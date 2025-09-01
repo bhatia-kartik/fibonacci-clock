@@ -1,2 +1,2 @@
 # fibonacci clock
-inspired from basbrun.com
+access [here](https://bhatia-kartik.github.io/fibonacci-clock/), inspired from basbrun.com
